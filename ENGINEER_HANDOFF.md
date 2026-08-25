@@ -61,3 +61,4 @@ npm run build
 - Key 应继续通过管理员设置页写入，并加密保存。
 - 不建议把 `.openai/hosting.json` 当作普通部署配置修改；这是 Sites 项目身份文件。
 - 如果迁移到非 Sites 平台，需要重新设计 D1、环境变量、登录 Cookie 和 Worker 运行时。
+

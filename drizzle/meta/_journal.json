@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1786623452457,
+      "tag": "0000_result-studio",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1786634767817,
+      "tag": "0001_long_nomad",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1786888830865,
+      "tag": "0002_handy_king_bedlam",
+      "breakpoints": true
+    }
+  ]
+}
